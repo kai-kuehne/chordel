@@ -8,9 +8,9 @@ For a developer write-up on how I build this, see: [https://kaikuehne.net/chorde
 
 ## Demos
 
-[Training Mode](./progress/training-mode/chordel_training_with_ff_arrow.mov)
+[Training Mode](./progress/training-mode/chordel_training_with_ff_arrow.mp4)
 
-[Desktop UI](./progress/chords_no_shocker.mp4)
+[Desktop UI](./progress/chords.mp4)
 
 ## Features
 
