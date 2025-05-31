@@ -8,9 +8,11 @@ For a developer write-up on how I build this, see: [https://kaikuehne.net/chorde
 
 ## Demos
 
-[Training Mode](./progress/training-mode/chordel_training_with_ff_arrow.mp4)
+| Chord Mode | Training Mode |
+|:--:|:--:|
+| [![Chord Mode](https://img.youtube.com/vi/AeZjmwIHf-A/hqdefault.jpg)](https://www.youtube.com/watch?v=AeZjmwIHf-A) | [![Training Mode](https://img.youtube.com/vi/GD9pYc3uDao/hqdefault.jpg)](https://www.youtube.com/watch?v=GD9pYc3uDao) |
 
-[Desktop UI](./progress/chords.mp4)
+_Preview images link to youtube videos._
 
 ## Features
 

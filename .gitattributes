@@ -9,9 +9,3 @@
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.mov filter=lfs diff=lfs merge=lfs -text
 *.jpg_original filter=lfs diff=lfs merge=lfs -text
-
-# Do not track both of these so they can be included and played directly from
-# the README on GitHub.
-progress/chords.mp4 -filter -diff -merge text
-progress/training-mode/chordel_training_with_ff_arrow.mp4 -filter -diff -merge text
-
