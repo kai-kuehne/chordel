@@ -1,0 +1,12 @@
+{
+  version: 2,
+  mediaFileName: 'chords.mp4',
+  cutSegments: [
+    {
+      start: 0,
+      end: 35.348631865624995,
+      name: '',
+      selected: true,
+    },
+  ],
+}

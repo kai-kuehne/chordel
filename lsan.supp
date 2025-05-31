@@ -1,0 +1,4 @@
+leak:find_default_device
+leak:pm_add_device
+leak:pm_strdup
+leak:libdbus

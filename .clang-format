@@ -1,0 +1,25 @@
+# https://clang.llvm.org/docs/ClangFormatStyleOptions.html
+
+AlignAfterOpenBracket: BlockIndent
+AlignArrayOfStructures: Right
+AlignConsecutiveAssignments: Consecutive
+AlignConsecutiveDeclarations: Consecutive
+AlignConsecutiveMacros: Consecutive
+AlignEscapedNewlines: LeftWithLastLine
+AllowAllArgumentsOnNextLine: true
+AllowAllParametersOfDeclarationOnNextLine: true
+AllowShortBlocksOnASingleLine: Never
+AllowShortEnumsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: None
+BinPackArguments: false
+BreakBeforeBraces: Attach
+ColumnLimit: 119
+IndentCaseLabels: true
+IndentWidth: 4
+InsertBraces: true
+LineEnding: LF
+PointerAlignment: Left
+SpacesBeforeTrailingComments: 1
+UseTab: Never
+WhitespaceSensitiveMacros:
+    - new

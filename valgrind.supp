@@ -1,0 +1,37 @@
+{
+   find_default_device
+   Memcheck:Leak
+   fun:find_default_device
+}
+
+{
+   pm_add_device
+   Memcheck:Leak
+   fun:pm_add_device
+}
+
+{
+   pm_strdup
+   Memcheck:Leak
+   fun:pm_strdup
+}
+
+{
+   libdbus
+   Memcheck:Leak
+   obj:/usr/lib/.*libdbus.*\.so.*
+}
+
+{
+   dbus_message_new_empty_header_leak
+   Memcheck:Leak
+   fun:calloc
+   obj:*libdbus*.so*
+   fun:dbus_message_new_empty_header
+   fun:_dbus_message_loader_queue_messages
+   fun:_dbus_transport_get_dispatch_status
+   fun:_dbus_transport_queue_messages
+   fun:do_reading
+   fun:socket_do_iteration
+}
+
